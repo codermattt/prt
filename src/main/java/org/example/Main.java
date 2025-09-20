@@ -5,12 +5,15 @@ public class Main {
 
 
         System.out.printf("Hello and welcome!");
+
+        a();
+        b();
     }
     private static String a(){
         return "mathew";
     }
     private static String b(){
-        return "is here";
+        return "was here. he went out";
     }
 
 }
