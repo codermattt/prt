@@ -10,10 +10,10 @@ public class Main {
         b();
     }
     private static String a(){
-        return "I am";
+        return "Mathew";
     }
     private static String b(){
-        return "king";
+        return "Hendricks";
     }
 
 }
